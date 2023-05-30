@@ -1,0 +1,5 @@
+.git/*
+!.gitkeep
+/6/.vagrant/
+/6/empty.file
+
